@@ -6,4 +6,4 @@ Comment=Оптимизация и настройка игр для Manjaro Linux
 Exec=/usr/bin/manjaro-gaming-control
 Icon=manjaro-gaming-control
 Terminal=false
-Categories=System;Utility;Settings;
+Categories=Game;System;Utility;
