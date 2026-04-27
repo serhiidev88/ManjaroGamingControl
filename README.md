@@ -23,9 +23,9 @@
 
 ### Arch User Repository (AUR)
 You can easily install the app using your favorite AUR helper:
-\`\`\`bash
 yay -S manjaro-gaming-control-bin
-\`\`\`
+
+
 Or using Pamac:
 pamac build manjaro-gaming-control-bin
 
