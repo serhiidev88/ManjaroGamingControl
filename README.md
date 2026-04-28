@@ -20,6 +20,10 @@ While designed with Manjaro in mind, this tool works perfectly on Arch Linux and
 * **🔧 Hardware & Drivers:** 
   * Instantly check current and available Nvidia driver versions.
   * Safely rollback Nvidia drivers from your local cache.
+ 
+How it was built:
+The binary in the releases is compiled using PyInstaller with the following command:
+pyinstaller --noconfirm --onedir --windowed --clean --add-data "donate_img.jpg:." --add-data "icon.png:." --add-data "theme.py:." --add-data "about.py:." --add-data "clean.py:." --add-data "optimization.py:." "main.py"
 
 ## 📦 Installation
 
