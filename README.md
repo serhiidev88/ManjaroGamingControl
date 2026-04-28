@@ -2,6 +2,8 @@
 
 **Manjaro Gaming Control** is an exclusive, all-in-one optimization and hardware control utility designed specifically for Manjaro Linux gamers. It provides a clean GUI to manage your system's performance, clean junk, and monitor hardware without touching the terminal.
 
+While designed with Manjaro in mind, this tool works perfectly on Arch Linux and other Arch-based distributions.
+
 ## ✨ Features
 
 * **🚀 Game Optimization:** 
